@@ -35,7 +35,7 @@ const editor = new EditorJS({
     class: Checklist,
     inlineToolbar: true,
   },
-
+ 
   
  }
 });

@@ -1,19 +1,19 @@
-15704
-41C:\Users\LENOVO\Desktop\deneme\.gitignore132798771219066482 0
-43C:\Users\LENOVO\Desktop\deneme\package.json132798785688455992 0
+15713
+41C:\Users\LENOVO\Desktop\deneme\.gitignore132798795720578869 0
+43C:\Users\LENOVO\Desktop\deneme\package.json132798790191105406 0
 95C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living\nodes\HTMLMapElement-impl.js121436361000000000 0
 86C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living\helpers\focusing.js121436361000000000 0
 80C:\Users\LENOVO\Desktop\deneme\node_modules\postcss-modules\node_modules\postcss132798759189551652 1
 53C:\Users\LENOVO\Desktop\deneme\node_modules\lru-cache132798759172257658 1
 68C:\Users\LENOVO\Desktop\deneme\node_modules\string-hash\package.json132798759186533353 0
 67C:\Users\LENOVO\Desktop\deneme\node_modules\randomfill\package.json132798759194684223 0
-53C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs132798785686411805 1
+53C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs132798790189220640 1
 78C:\Users\LENOVO\Desktop\deneme\node_modules\svgo\plugins\convertShapeToPath.js121436361000000000 0
 90C:\Users\LENOVO\Desktop\deneme\node_modules\es-abstract\2021\AbstractEqualityComparison.js121436361000000000 0
 65C:\Users\LENOVO\Desktop\deneme\node_modules\ajv\scripts\bundle.js121436361000000000 0
 73C:\Users\LENOVO\Desktop\deneme\node_modules\stream-browserify\.airtap.yml121436361000000000 0
 81C:\Users\LENOVO\Desktop\deneme\node_modules\postcss-minify-gradients\package.json121436361000000000 0
-35C:\Users\LENOVO\Desktop\deneme\dist132798789894764674 1
+35C:\Users\LENOVO\Desktop\deneme\dist132798798687095942 1
 97C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living\generated\HTMLOutputElement.js121436361000000000 0
 100C:\Users\LENOVO\Desktop\deneme\node_modules\css-modules-loader-core\node_modules\postcss\lib\node.js131386303530000000 0
 66C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living132798759034714157 1
@@ -63,7 +63,7 @@
 90C:\Users\LENOVO\Desktop\deneme\node_modules\postcss-merge-longhand\dist\lib\hasAllProps.js121436361000000000 0
 55C:\Users\LENOVO\Desktop\deneme\node_modules\ws\index.js121436361000000000 0
 76C:\Users\LENOVO\Desktop\deneme\node_modules\yaml\dist\PlainValue-ec8e588e.js121436361000000000 0
-39C:\Users\LENOVO\Desktop\deneme\index.js132798789893475990 0
+39C:\Users\LENOVO\Desktop\deneme\index.js132798798686884927 0
 97C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js121436361000000000 0
 72C:\Users\LENOVO\Desktop\deneme\node_modules\whatwg-mimetype\package.json132798759175017740 0
 92C:\Users\LENOVO\Desktop\deneme\node_modules\postcss-modules\node_modules\picocolors\types.ts121436361000000000 0
@@ -81,9 +81,9 @@
 80C:\Users\LENOVO\Desktop\deneme\node_modules\@parcel\transformer-babel\lib\jsx.js121436361000000000 0
 87C:\Users\LENOVO\Desktop\deneme\node_modules\uncss\node_modules\postcss\lib\stringify.js121436361000000000 0
 72C:\Users\LENOVO\Desktop\deneme\node_modules\is-unicode-supported\license121436361000000000 0
-48C:\Users\LENOVO\Desktop\deneme\package-lock.json132798785689878736 0
+48C:\Users\LENOVO\Desktop\deneme\package-lock.json132798790192605124 0
 109C:\Users\LENOVO\Desktop\deneme\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\node.js121436361000000000 0
-43C:\Users\LENOVO\Desktop\deneme\node_modules132798785686667110 1
+43C:\Users\LENOVO\Desktop\deneme\node_modules132798790189500367 1
 50C:\Users\LENOVO\Desktop\deneme\node_modules\globby132798759182239585 1
 66C:\Users\LENOVO\Desktop\deneme\node_modules\vm-browserify\index.js121436361000000000 0
 48C:\Users\LENOVO\Desktop\deneme\node_modules\.bin132798763148196846 1
@@ -213,6 +213,7 @@
 86C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living\generated\Plugin.js121436361000000000 0
 87C:\Users\LENOVO\Desktop\deneme\node_modules\core-js\internals\new-promise-capability.js121436361000000000 0
 56C:\Users\LENOVO\Desktop\deneme\node_modules\postcss-calc132798759178547695 1
+73C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\README.md132490716410000000 0
 70C:\Users\LENOVO\Desktop\deneme\node_modules\lodash\templateSettings.js121436361000000000 0
 51C:\Users\LENOVO\Desktop\deneme\node_modules\vendors132798759178452927 1
 82C:\Users\LENOVO\Desktop\deneme\node_modules\@babel\traverse\node_modules\debug\src132798758964341474 1
@@ -728,6 +729,7 @@
 81C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\features\netinfo.js121436361000000000 0
 74C:\Users\LENOVO\Desktop\deneme\node_modules\source-map-js\lib\array-set.js121436361000000000 0
 86C:\Users\LENOVO\Desktop\deneme\node_modules\serve-handler\node_modules\mime-db\LICENSE131466269770000000 0
+68C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\dist132798790189141847 1
 87C:\Users\LENOVO\Desktop\deneme\node_modules\uncss\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 63C:\Users\LENOVO\Desktop\deneme\node_modules\cipher-base\LICENSE131438162440000000 0
 49C:\Users\LENOVO\Desktop\deneme\node_modules\jsesc132798759014300512 1
@@ -7523,6 +7525,7 @@
 72C:\Users\LENOVO\Desktop\deneme\node_modules\msgpackr\tests\example5.json121436361000000000 0
 83C:\Users\LENOVO\Desktop\deneme\node_modules\core-js\features\array\virtual\every.js121436361000000000 0
 69C:\Users\LENOVO\Desktop\deneme\node_modules\msgpackr\tests\index.html121436361000000000 0
+71C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\LICENSE132490716410000000 0
 72C:\Users\LENOVO\Desktop\deneme\node_modules\msgpackr\tests\strings2.json121436361000000000 0
 75C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\regions\AZ.js121436361000000000 0
 80C:\Users\LENOVO\Desktop\deneme\node_modules\core-js\features\string\fontcolor.js121436361000000000 0
@@ -8058,7 +8061,7 @@
 77C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living\webstorage132798759034225297 1
 66C:\Users\LENOVO\Desktop\deneme\node_modules\lodash\_baseIsEqual.js121436361000000000 0
 69C:\Users\LENOVO\Desktop\deneme\node_modules\fast-glob\out\utils\fs.js121436361000000000 0
-58C:\Users\LENOVO\Desktop\deneme\dist\index.92047b61.css.map132798782974305454 0
+58C:\Users\LENOVO\Desktop\deneme\dist\index.92047b61.css.map132798793516233063 0
 70C:\Users\LENOVO\Desktop\deneme\node_modules\lodash\_baseIsEqualDeep.js121436361000000000 0
 94C:\Users\LENOVO\Desktop\deneme\node_modules\jsdom\lib\jsdom\living\generated\ShadowRootInit.js121436361000000000 0
 64C:\Users\LENOVO\Desktop\deneme\node_modules\lodash\_baseIsMap.js121436361000000000 0
@@ -9024,6 +9027,7 @@
 72C:\Users\LENOVO\Desktop\deneme\node_modules\json-source-map\package.json121436361000000000 0
 64C:\Users\LENOVO\Desktop\deneme\node_modules\json-source-map\spec132798759013690034 1
 72C:\Users\LENOVO\Desktop\deneme\node_modules\json-schema-traverse\LICENSE131702814080000000 0
+78C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\dist\bundle.js132490716540000000 0
 77C:\Users\LENOVO\Desktop\deneme\node_modules\json-schema-traverse\package.json131730934410000000 0
 69C:\Users\LENOVO\Desktop\deneme\node_modules\json-schema-traverse\spec132798759014695727 1
 64C:\Users\LENOVO\Desktop\deneme\node_modules\json-schema\draft-03132798759016986417 1
@@ -9692,7 +9696,7 @@
 65C:\Users\LENOVO\Desktop\deneme\node_modules\is-regex\CHANGELOG.md121436361000000000 0
 70C:\Users\LENOVO\Desktop\deneme\node_modules\is-generator-function\test132798759017407001 1
 61C:\Users\LENOVO\Desktop\deneme\node_modules\is-regex\index.js121436361000000000 0
-44C:\Users\LENOVO\Desktop\deneme\css\main.scss132798762776994913 0
+44C:\Users\LENOVO\Desktop\deneme\css\main.scss132798793514765333 0
 78C:\Users\LENOVO\Desktop\deneme\node_modules\balanced-match\.github\FUNDING.yml121436361000000000 0
 76C:\Users\LENOVO\Desktop\deneme\node_modules\cosmiconfig\dist\ExplorerSync.js121436361000000000 0
 77C:\Users\LENOVO\Desktop\deneme\node_modules\es-abstract\2021\SameValueZero.js121436361000000000 0
@@ -11639,7 +11643,7 @@
 101C:\Users\LENOVO\Desktop\deneme\node_modules\@parcel\node-libs-browser\node_modules\punycode\README.md130692890970000000 0
 75C:\Users\LENOVO\Desktop\deneme\node_modules\es-abstract\2015\HasProperty.js121436361000000000 0
 74C:\Users\LENOVO\Desktop\deneme\node_modules\es-abstract\2015\InLeapYear.js121436361000000000 0
-53C:\Users\LENOVO\Desktop\deneme\dist\index.38661719.js132798789894714674 0
+53C:\Users\LENOVO\Desktop\deneme\dist\index.38661719.js132798798687023589 0
 82C:\Users\LENOVO\Desktop\deneme\node_modules\es-abstract\2015\InstanceofOperator.js121436361000000000 0
 93C:\Users\LENOVO\Desktop\deneme\node_modules\@babel\core\node_modules\source-map\lib\base64.js131369414910000000 0
 70C:\Users\LENOVO\Desktop\deneme\node_modules\es-abstract\2015\Invoke.js121436361000000000 0
@@ -11883,7 +11887,7 @@
 79C:\Users\LENOVO\Desktop\deneme\node_modules\diffie-hellman\lib\generatePrime.js121436361000000000 0
 59C:\Users\LENOVO\Desktop\deneme\node_modules\detect-libc\lib132798759025025068 1
 68C:\Users\LENOVO\Desktop\deneme\node_modules\detect-libc\package.json131558189670000000 0
-46C:\Users\LENOVO\Desktop\deneme\dist\index.html132798782975672980 0
+46C:\Users\LENOVO\Desktop\deneme\dist\index.html132798793517068475 0
 65C:\Users\LENOVO\Desktop\deneme\node_modules\detect-libc\README.md131537426190000000 0
 74C:\Users\LENOVO\Desktop\deneme\node_modules\detect-libc\lib\detect-libc.js131558189670000000 0
 74C:\Users\LENOVO\Desktop\deneme\node_modules\detect-libc\bin\detect-libc.js131536039920000000 0
@@ -13879,6 +13883,7 @@
 63C:\Users\LENOVO\Desktop\deneme\node_modules\ansi-regex\index.js121436361000000000 0
 75C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\regions\AL.js121436361000000000 0
 79C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\regions\alt-af.js121436361000000000 0
+63C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist132798790189393293 1
 79C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\regions\alt-an.js121436361000000000 0
 79C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\regions\alt-eu.js121436361000000000 0
 79C:\Users\LENOVO\Desktop\deneme\node_modules\caniuse-lite\data\regions\alt-oc.js121436361000000000 0
@@ -14430,7 +14435,7 @@
 63C:\Users\LENOVO\Desktop\deneme\node_modules\braces\lib\parse.js121436361000000000 0
 68C:\Users\LENOVO\Desktop\deneme\node_modules\brace-expansion\index.js131626435880000000 0
 72C:\Users\LENOVO\Desktop\deneme\node_modules\brace-expansion\package.json131627221320000000 0
-57C:\Users\LENOVO\Desktop\deneme\dist\index.38661719.js.map132798789894754674 0
+57C:\Users\LENOVO\Desktop\deneme\dist\index.38661719.js.map132798798687085991 0
 69C:\Users\LENOVO\Desktop\deneme\node_modules\brace-expansion\README.md131627221250000000 0
 61C:\Users\LENOVO\Desktop\deneme\node_modules\boolbase\index.js130313308750000000 0
 65C:\Users\LENOVO\Desktop\deneme\node_modules\boolbase\package.json130369486800000000 0
@@ -15455,6 +15460,10 @@
 102C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\editorjs\example\tools\image\dev\.tmp\.npmignore132713686890000000 0
 89C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\editorjs\dist\editor.js.LICENSE.txt132713687800000000 0
 78C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\editorjs\dist\sprite.svg132713687580000000 0
+71C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\.github132798790189126643 1
+76C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\package.json132798790189351103 0
+81C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\.github\workflows132798790189151811 1
+97C:\Users\LENOVO\Desktop\deneme\node_modules\@editorjs\checklist\.github\workflows\npm-publish.yml132490716410000000 0
 91C:\Users\LENOVO\Desktop\deneme\node_modules\@babel\traverse\node_modules\debug\package.json132798759168595334 0
 61C:\Users\LENOVO\Desktop\deneme\node_modules\@babel\code-frame132798759014096419 1
 77C:\Users\LENOVO\Desktop\deneme\node_modules\@babel\helper-compilation-targets132798759129491011 1
@@ -15702,4 +15711,4 @@
 57C:\Users\LENOVO\Desktop\deneme\node_modules\.bin\sass.cmd132798763148199768 0
 57C:\Users\LENOVO\Desktop\deneme\node_modules\.bin\sass.ps1132798763148199768 0
 58C:\Users\LENOVO\Desktop\deneme\dist\deneme.45ee5e70.js.map132798765934062065 0
-54C:\Users\LENOVO\Desktop\deneme\dist\index.92047b61.css132798782974255443 0
+54C:\Users\LENOVO\Desktop\deneme\dist\index.92047b61.css132798793516203777 0
