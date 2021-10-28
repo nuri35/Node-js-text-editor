@@ -7,5 +7,7 @@ import Embed from '@editorjs/editorjs';
 
 const editor = new EditorJS({
  holderId:"editorjs",
- 
+ tools:{
+   class:Header
+ }
 });
