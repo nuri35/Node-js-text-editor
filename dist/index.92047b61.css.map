@@ -1,1 +1,1 @@
-{"mappings":"","sources":["css/main.scss"],"sourcesContent":[null],"names":[],"version":3,"file":"index.92047b61.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;EACI;EACA;EACA;EACA","sources":["css/main.scss"],"sourcesContent":["body{\r\n    background-color: rgb(233, 233, 233);\r\n    height: 100%;\r\n    padding: 3em;\r\n    font-family: \"Montserrat\";\r\n\r\n}\r\n\r\n\r\n#editorjs{\r\n    \r\n}"],"names":[],"version":3,"file":"index.92047b61.css.map","sourceRoot":"/__parcel_source_root/"}
