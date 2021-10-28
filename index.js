@@ -36,6 +36,7 @@ const editor = new EditorJS({
     inlineToolbar: true,
   },
  
+
   
  }
 });
