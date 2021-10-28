@@ -1,9 +1,10 @@
 import EditorJS from '@editorjs/editorjs';
 
-import Header from '@editorjs/editorjs';
+const Header = require('@editorjs/header');
 
-import List from '@editorjs/editorjs';
-import Embed from '@editorjs/editorjs';
+import List from '@editorjs/list';
+
+const Embed = require('@editorjs/embed');
 const Checklist = require('@editorjs/checklist');
 const SimpleImage = require('@editorjs/simple-image');
 
@@ -35,17 +36,7 @@ const editor = new EditorJS({
     class: Checklist,
     inlineToolbar: true,
   },
-    image: {
-      class: ImageTool,
-      config: {
-        endpoints: {
-          byFile: 'http://localhost:8008/uploadFile', // Your backend file uploader endpoint
-          byUrl: 'http://localhost:8008/fetchUrl', // Your endpoint that provides uploading by Url
-        }
-      }
-    }
 
-  
  }
 });
 
@@ -53,7 +44,7 @@ const editor = new EditorJS({
 let savebtn = document.querySelector(".button")
 
 savebtn.addEventListener("click",()=>{
-  editor.saver().then((result) => {
+  editor.save().then((result) => {
     console.log("article data" + result)
   }).catch((err) => {
     console.log("failed:" + err)
