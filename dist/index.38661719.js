@@ -493,6 +493,15 @@ const editor = new _editorjsDefault.default({
         checklist: {
             class: Checklist,
             inlineToolbar: true
+        },
+        image: {
+            class: ImageTool,
+            config: {
+                endpoints: {
+                    byFile: 'http://localhost:8008/uploadFile',
+                    byUrl: 'http://localhost:8008/fetchUrl'
+                }
+            }
         }
     }
 });
