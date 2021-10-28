@@ -463,7 +463,10 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _editorjs = require("@editorjs/editorjs");
 var _editorjsDefault = parcelHelpers.interopDefault(_editorjs);
 const editor = new _editorjsDefault.default({
-    holderId: "editorjs"
+    holderId: "editorjs",
+    tools: {
+        class: _editorjsDefault.default
+    }
 });
 
 },{"@editorjs/editorjs":"bGC2L","@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"bGC2L":[function(require,module,exports) {
